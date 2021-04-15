@@ -54,6 +54,8 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 
 * [Seattle Vistiting Nurses Association (SVNA)](https://schedule.seattlevna.com/home) - SVNA runs the City of Seattle site at Norh Seattle College. They sometimes have appointments available on their site.
 
+* [Fred Hutch/SCCA](https://www.solvhealth.com/book-online/AM8450) - South Lake Union. Books same day and one day out. New slots open at midnight.
+
 ## Other Resources
 
 * [r/CoronoavirusWA](https://www.reddit.com/r/coronaviruswa)
