@@ -58,6 +58,8 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 
 * [Fred Hutch/SCCA](https://www.solvhealth.com/book-online/AM8450) - South Lake Union. Books same day and one day out. New slots open at midnight.
 
+* [Sea Mar](https://www.seamar.org/covid-vaccine.html) - 34 walk-in locations in Western WA. Site lists availability.
+
 ## Other Resources
 
 * [r/CoronoavirusWA](https://www.reddit.com/r/coronaviruswa)
