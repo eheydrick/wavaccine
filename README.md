@@ -32,7 +32,7 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 * [Virginia Mason](https://www.virginiamason.org/vaccinewaitlist) - Sign up for the waitlist. Often runs clinics at Amazon.
 
-* [Kaiser Permanente](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/vaccine-appointments) - Members can schedule appointments [here](https://wa-member2.kaiserpermanente.org/MyChart/SymptomChecker/SelfTriage/Load?TreeID=YoCfEDe%2BCBOtYeqcP10oEg%3D%3D&FromList=1). Non-members can fill out [this form](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/covid-vaccine/vaccination-eligibility).
+* [Kaiser Permanente](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/vaccine-appointments) - Members can schedule appointments [here](https://wa-member2.kaiserpermanente.org/MyChart/SymptomChecker/SelfTriage/Load?TreeID=YoCfEDe%2BCBOtYeqcP10oEg%3D%3D&FromList=1). Non-members can fill out [this form](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/covid-vaccine/vaccination-eligibility) or call 1‑800‑352‑3610.
 
 * [Seattle Children's](https://mychart.seattlechildrens.org/mychart/COVID19) - Located in Sand Point.
 
