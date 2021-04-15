@@ -34,6 +34,8 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 * [Kaiser Permanente](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/vaccine-appointments) - Members can schedule appointments [here](https://wa-member2.kaiserpermanente.org/MyChart/SymptomChecker/SelfTriage/Load?TreeID=YoCfEDe%2BCBOtYeqcP10oEg%3D%3D&FromList=1). Non-members can fill out [this form](https://healthy.kaiserpermanente.org/washington/health-wellness/coronavirus-information/covid-vaccine/vaccination-eligibility).
 
+* [Seattle Children's](https://mychart.seattlechildrens.org/mychart/COVID19) - Located in Sand Point.
+
 ## Pharmacy Chains
 
 Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.gov/vaccines/covid-19/retail-pharmacy-program/participating-pharmacies.html) include Kroger (Fred Meyer, QFC) and Albertsons (Safeway). Usually better to use the aggregators but if you really prefer one chain over the other, these can be checked individually.
