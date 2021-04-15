@@ -64,3 +64,6 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 
 * [r/CoronoavirusWA](https://www.reddit.com/r/coronaviruswa)
 
+# Contributing
+
+Got a tip? Found an error? Open an [issue](https://github.com/eheydrick/wavaccine/issues) or file a PR. You can also shout at [@eheydrick](https://twitter.com/eheydrick).
