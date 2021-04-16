@@ -1,5 +1,19 @@
 # WA Vaccine Guide
 
+## About the Vaccines
+
+|Vaccine Brand Name|Who Can Get this Vaccine<sup>[1]</sup>|How Many Shots You Will Need|When Are You Fully Vaccinated?|
+| --- | --- | --- | --- |
+|[Pfizer-BioNTech](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html)|People 16 years and older|2 shots given 3 weeks (21 days) apart <sup>[2]</sup>|2 weeks after your second shot|
+|[Moderna](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html)|People 18 years and older|2 shots given 4 weeks (28 days) apart<sup>[2]</sup>|2 weeks after your second shot|
+|[Johnson & Johnson’s Janssen](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html)|People 18 years and older|1 shot|2 weeks after your shot|
+
+<sup>1</sup>If you have had a severe [allergic reaction](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/specific-groups/allergies.html) (anaphylaxis) or an immediate allergic reaction to any [ingredient in the vaccine you are scheduled to receive](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html#Appendix-C%20), you should not get that vaccine. If you have been instructed not to get one type of COVID-19 vaccine, you may still be able to get another type. Learn more [information for people with allergies](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/specific-groups/allergies.html).
+
+<sup>2</sup>You should get your second shot as close to the recommended 3-week or 4-week interval as possible. However, your second shot may be given up to 6 weeks (42 days) after the first dose, if necessary.
+
+Source: [National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html)
+
 ## Aggregators
 
 These sites scrape availability from multiple sites, saving you the trouble of checking them individually.
