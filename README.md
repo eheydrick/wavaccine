@@ -36,6 +36,8 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 * [City of Seattle](https://forms.office.com/Pages/ResponsePage.aspx?id=RR7meOtrCUCPmTWdi1T0G2oHZB0Q1AZPn08T2zoB3clUOVRHQldQNlM2WDM4OUdBN0s3REE1MUc3Sy4u) - City of Seattle runs sites at Lumen Field, North Seattle College, Rainier Beach, and West Seattle. One waitlist for all.
 
+* [Snoqualmie Tribe Vaccine Partnership](https://eastsidefire.signetic.com/home/fd10ec69-9a94-eb11-b1ac-000d3a1bdd61) -  Mass site at Lake Sammamish run by the Snoqualmie Tribe, Eastside Fire & Rescue, City of Sammamish, and City of Issaquah.
+
 ## State and Federal Sites
 
 * [Prepmod](https://prepmod.doh.wa.gov/clinic/search) - Includes the large FEMA site in Yakima.
