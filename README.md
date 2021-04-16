@@ -50,7 +50,7 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 ## Local Pharmacies
 
 * [Island Drug](https://islanddrug.com/appt/) - Local drug store on Whidbey and La Conner running a very efficient operation.
-* [Bartell Drugs](https://www.bartelldrugs.com/covid-19-vaccine/)
+* [Bartell Drugs](https://www.bartelldrugs.com/covid-19-vaccine/) - Chain of pharmacies in the Puget Sound area primarily in the Seattle area, but also in Snohomish County and Pierce County.
 
 ## Other Providers
 
