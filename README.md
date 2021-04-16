@@ -34,6 +34,8 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 * [Snohomish County](https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/covid-19-vaccine) - 6 sites including Boeing Everett and Evergreen Fairgrounds in Monroe. Most do registration on prepmod.
 
+* [Pierce County](https://www.tpchd.org/healthy-people/diseases/covid-19/covid-19-vaccine-information) - Pierce County holds events on specific days and many of them are drive-thrus.
+
 ## City Mass Sites
 
 * [City of Seattle](https://forms.office.com/Pages/ResponsePage.aspx?id=RR7meOtrCUCPmTWdi1T0G2oHZB0Q1AZPn08T2zoB3clUOVRHQldQNlM2WDM4OUdBN0s3REE1MUc3Sy4u) - City of Seattle runs sites at Lumen Field, North Seattle College, Rainier Beach, and West Seattle. One waitlist for all.
