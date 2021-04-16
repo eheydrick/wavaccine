@@ -32,7 +32,7 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 * [Microsoft](https://www.kcvredmond.com/) - Site at Microsoft in Redmond run by EvergreenHealth, Overlake Medical Center, and Microsoft. Requires pre-registering on a wait list.
 
-* [Snohomish County](https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/covid-19-vaccine) - 7 sites including Boeing Everett and Evergreen Fairgrounds in Monroe. Most do registration on prepmod.
+* [Snohomish County](https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/covid-19-vaccine) - 6 sites including Boeing Everett and Evergreen Fairgrounds in Monroe. Most do registration on prepmod.
 
 ## City Mass Sites
 
