@@ -4,7 +4,7 @@
 
 These sites scrape availability from multiple sites, saving you the trouble of checking them individually.
 
-* [WA Vaccine Finder - covidwa.com](https://www.covidwa.com/) - 860+ providers checked every 5 minutes. Also available as a [twitter feed](https://twitter.com/covidwashington) with hash tags for each county. For instance [#CovidWaKingCounty](https://twitter.com/hashtag/CovidWaKingCounty) has real-time updates as appointments open up in King County.
+* [WA Vaccine Finder - covidwa.com](https://www.covidwa.com/) - 860+ providers checked every 5 minutes. Also available as a [Twitter feed](https://twitter.com/covidwashington) with hash tags for each county. For instance, [#CovidWaKingCounty](https://twitter.com/hashtag/CovidWaKingCounty) has real-time updates as appointments open up in King County.
 
 * [Vaccine Spotter](https://www.vaccinespotter.org/WA/) - Good for checking pharmacy chains (Rite Aid, Walgreens, Costco, Walmart, etc.)
 
@@ -38,7 +38,7 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 ## Pharmacy Chains
 
-Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.gov/vaccines/covid-19/retail-pharmacy-program/participating-pharmacies.html) include Kroger (Fred Meyer, QFC) and Albertsons (Safeway). Usually better to use the aggregators but if you really prefer one chain over the other, these can be checked individually.
+Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.gov/vaccines/covid-19/retail-pharmacy-program/participating-pharmacies.html) includes Kroger (Fred Meyer, QFC) and Albertsons (Safeway). Usually better to use the aggregators but if you prefer one chain over the other, these can be checked individually.
 
 * [Albertsons (Safeway)](https://www.mhealthappointments.com/covidappt)
 * [Kroger (Fred Meyer, QFC)](https://www.kroger.com/rx/covid-eligibility)
@@ -54,7 +54,7 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 
 ## Other Providers
 
-* [Seattle Vistiting Nurses Association (SVNA)](https://schedule.seattlevna.com/home) - SVNA runs the City of Seattle site at North Seattle College. They sometimes have appointments available on their site.
+* [Seattle Visiting Nurses Association (SVNA)](https://schedule.seattlevna.com/home) - SVNA runs the City of Seattle site at North Seattle College. They sometimes have appointments available on their site.
 
 * [Fred Hutch/SCCA](https://www.solvhealth.com/book-online/AM8450) - South Lake Union. Books same day and one day out. New slots open at midnight.
 
