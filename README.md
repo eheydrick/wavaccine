@@ -80,6 +80,8 @@ Pharmacy chains part of the [Federal Retail Pharmacy Program](https://www.cdc.go
 
 * [Sea Mar](https://www.seamar.org/covid-vaccine.html) - 34 walk-in locations in Western WA. Site lists availability.
 
+* [Seattle Cancer Care Alliance](https://www.solvhealth.com/book-online/gq3RnA) - Located at Northwest Hospital in North Settle.
+
 ## Other Resources
 
 * [r/CoronoavirusWA](https://www.reddit.com/r/coronaviruswa)
