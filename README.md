@@ -4,7 +4,7 @@
 
 |Vaccine Brand Name|Who Can Get this Vaccine<sup>[1]</sup>|How Many Shots You Will Need|When Are You Fully Vaccinated?|
 | --- | --- | --- | --- |
-|[Pfizer-BioNTech](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html)|People 16 years and older|2 shots given 3 weeks (21 days) apart <sup>[2]</sup>|2 weeks after your second shot|
+|[Pfizer-BioNTech](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html)|People 12 years and older|2 shots given 3 weeks (21 days) apart <sup>[2]</sup>|2 weeks after your second shot|
 |[Moderna](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html)|People 18 years and older|2 shots given 4 weeks (28 days) apart<sup>[2]</sup>|2 weeks after your second shot|
 |[Johnson & Johnson’s Janssen](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html)|People 18 years and older|1 shot|2 weeks after your shot|
 
@@ -38,7 +38,7 @@ These sites scrape availability from multiple sites, saving you the trouble of c
 
 ## City Mass Sites
 
-* [City of Seattle](https://forms.office.com/Pages/ResponsePage.aspx?id=RR7meOtrCUCPmTWdi1T0G2oHZB0Q1AZPn08T2zoB3clUOVRHQldQNlM2WDM4OUdBN0s3REE1MUc3Sy4u) - City of Seattle runs sites at Lumen Field, North Seattle College, Rainier Beach, and West Seattle. One waitlist for all.
+* [City of Seattle](https://seattle.signetic.com/home) - City of Seattle runs sites at Lumen Field, North Seattle College, Rainier Beach, and West Seattle. No appointment needed.
 
 * [Snoqualmie Tribe Vaccine Partnership](https://eastsidefire.signetic.com/home/fd10ec69-9a94-eb11-b1ac-000d3a1bdd61) -  Mass site at Lake Sammamish run by the Snoqualmie Tribe, Eastside Fire & Rescue, City of Sammamish, and City of Issaquah.
 
